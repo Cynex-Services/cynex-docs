@@ -63,17 +63,10 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Miscellaneous",
       "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "miscellaneous/user-flags",
+        "miscellaneous/suspensions"
       ]
     }
   ],
